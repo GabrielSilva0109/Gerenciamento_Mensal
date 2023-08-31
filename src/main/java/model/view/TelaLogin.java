@@ -63,6 +63,9 @@ public class TelaLogin extends JFrame {
 		private JPanel panel;
 		private JButton btnRecuperacaoSenha;
 		private JLabel lblErro;
+		private String A;
+		
+
 
 	/**
 	 * Launch the application.
